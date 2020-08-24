@@ -8,6 +8,8 @@ I'm Daria. 💻 I’m looking for a position of QA Engineer in a company with a 
 
  <img align="left" width="332" height="190" src="https://user-images.githubusercontent.com/49988408/91026257-d072f180-e5fa-11ea-89ac-20ca232eb087.gif">
  
+ 
+ 
 * [Oracle Live SQL](https://docs.google.com/spreadsheets/d/1cRASfPSEKgBF8TIt0yvh3D_E5WChrRgQJKsAjgflSD8/edit?usp=sharing)
 * [My Test Cases and Bugs - based on uTest projects](https://docs.google.com/spreadsheets/d/1UrvsrWflmaHokopiqaT4mt3t-uCthrhreVhiM98LKV0/edit?usp=sharing)
 * [Trello - My test cases and bugs](https://trello.com/b/8287JRtx/%D0%B4%D0%BE%D0%B1%D1%80%D0%BE-%D0%BF%D0%BE%D0%B6%D0%B0%D0%BB%D0%BE%D0%B2%D0%B0%D1%82%D1%8C-%D0%B2-trello)
