@@ -6,6 +6,7 @@
 
 I'm Daria. 💻 I’m looking for a position of QA Engineer in a company with a friendly atmosphere.  So far I was doing some side projects and below you can find them. 📹 ✍🏾 
 
+
  <img align="left" width="332" height="190" src="https://user-images.githubusercontent.com/49988408/91026257-d072f180-e5fa-11ea-89ac-20ca232eb087.gif">
  
  
