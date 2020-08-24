@@ -1,10 +1,9 @@
-### Hello, World! 👋 
-
 <p align="center">
   <img src="https://user-images.githubusercontent.com/49988408/90987120-c1ebf200-e588-11ea-9be5-4d43ab1eaf99.jpg" />
 </p>
 
-<br /> I'm Daria. 💻 I’m looking for a position of QA Engineer in a company with a friendly atmosphere.  So far I was doing some side projects and below you can find them. 📹 ✍🏾 <br />
+### Hello, World! 👋  
+I'm Daria. 💻 I’m looking for a position of QA Engineer in a company with a friendly atmosphere.  So far I was doing some side projects and below you can find them. 📹 ✍🏾 
 
 <p align="center">
   <img src="![ezgif com-resize](https://user-images.githubusercontent.com/49988408/91026257-d072f180-e5fa-11ea-89ac-20ca232eb087.gif)" />
