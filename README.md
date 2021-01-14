@@ -22,7 +22,8 @@ I'm Daria. 💻 I’m looking for a position of QA Engineer. So far I was doing 
 * [Bug Report for Fulcrum.rocks](https://docs.google.com/spreadsheets/d/1Q7ScuDUvyDQCy9SLox82MP7YZY6pe5u6l2MBltzL1jQ/edit#gid=0)
 * [Test cases for Gmail.com](https://docs.google.com/spreadsheets/d/1iLB7g8J1N_VAv7nM5OCoAIqBKY_DXPmJYkMKVT_Y9tU/edit#gid=0)
 * [Checklist \ Bug Report for landingleader.com [Ru]](https://docs.google.com/spreadsheets/d/1a4OFg8NPlMLvs0gy2S1sGYGonCTmPQYZfJ_WbntbwVo/edit#gid=1365157189)
-* [Checklist Instagram](https://github.com/dariamorricone/dariamorricone/blob/master/Checklist%20Instagram.xlsx)
+* [Checklist Instagram](https://drive.google.com/file/d/1qv_Lf39raHDXNWFIb6m4Qnrqh9WIIHau/view?usp=sharing)
+* [Checklist Word - Smoke\ Critical Path\ Extended Tests](https://drive.google.com/file/d/1Wy06a0CXOLs3LdC2sipYyqn_HMGlZuZY/view?usp=sharing)
 
 
 
